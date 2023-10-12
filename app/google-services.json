@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605469709290",
+    "project_id": "cloud7-1df8f",
+    "storage_bucket": "cloud7-1df8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605469709290:android:fb97b8bbdcc7aff0829893",
+        "android_client_info": {
+          "package_name": "com.sambika.cloud7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605469709290-80hcqg2o1k6romm72cd9vgonshs88pq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcn7zft0N8Xx7HSxnBHB1r9VcMNPJw2zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605469709290-80hcqg2o1k6romm72cd9vgonshs88pq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
